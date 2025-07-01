@@ -1,4 +1,4 @@
 # BusinessLogicAnalysis
 
-[Business Logic Analysis](./PDF/BusinessLogicAnalysis.pdf)
+[Business Logic Analysis PDF](./PDF/BusinessLogicAnalysis.pdf)
 
